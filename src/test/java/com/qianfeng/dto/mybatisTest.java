@@ -21,7 +21,7 @@ import java.util.UUID;
 public class mybatisTest {
 
     /**
-     * 关联查询：多对多
+     * 关联查询：多对多 1808
      */
     @Test
     public void testcase1(){
